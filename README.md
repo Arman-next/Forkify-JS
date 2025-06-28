@@ -17,7 +17,7 @@ A simple application where users can search a **Recipe Name** and get the relate
 - ✅ **Bookmark** a Recipe
 - ✅ Can select **no. of servings** of a selected recipe
 - ✅ Displays:
-  - 10 recipe at time
+  - Pagination(10 recipe)
   - Change the page for more recipe
   - For a **selected Recipe**
     - Recipe **image**
