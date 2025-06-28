@@ -136,6 +136,3 @@ Forkify-JS/
 
 ---
 
-## 🌐 Live Demo
-
-- Click to see the [Live page](https://arman-next.github.io/Weather-App-JS/)
